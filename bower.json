@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "authors": [
+    "yuri <yuli_cd@huoyunren.com>"
+  ],
+  "description": "imooc",
+  "main": "",
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
